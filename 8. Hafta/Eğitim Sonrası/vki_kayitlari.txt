@@ -1,0 +1,8 @@
+Ali Veli, Yaş: 30, Boy: 1.89 m, Kilo: 98.0 kg, VKİ: 27.43, Sınıf: Fazla kilolu
+Mehmet Ali, Yaş: 37, Boy: 1.96 m, Kilo: 45.0 kg, VKİ: 11.71, Sınıf: Zayıf
+Selim, Yas: 67, Boy: 1.78 m, Kilo: 54.0 kg, VKI: 17.04, Sinif: Zayif
+Kemal Oldu, Yas: 49, Boy: 1.84 m, Kilo: 76.0 kg, VKI: 22.45, Sinif: Normal kilolu
+Ahmet Ersin, Yas: 87, Boy: 1.56 m, Kilo: 98.0 kg, VKI: 40.27, Sinif: Ileri derecede obez
+
+Nil Anka, Yas: 23, Boy: 1.64 m, Kilo: 45.0 kg, VKI: 16.73, Sinif: Zayif
+
